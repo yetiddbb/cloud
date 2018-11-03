@@ -1,0 +1,1 @@
+mipsel 24kc
